@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "264070430306",
+    "project_id": "flutter-chat-app-29acc",
+    "storage_bucket": "flutter-chat-app-29acc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264070430306:android:d011263c5e7f1c448e1b3b",
+        "android_client_info": {
+          "package_name": "com.example.cipicapachat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWu2tv339-ormYGXrvyBLp-uc3O3Yma0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
