@@ -1,6 +1,6 @@
 # cipicapachat
 
-A new Flutter project.
+A firebase messenger app
 
 ## Getting Started
 
